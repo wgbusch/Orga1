@@ -1,0 +1,4 @@
+SET R0, 0x00
+SET R1, 0x02
+SET R2, 0x04
+JMP R1

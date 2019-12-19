@@ -1,0 +1,4 @@
+     |00| SET R0 , 0x55
+     |02| SET R1 , 0xAA
+     |04| CMB R0 , R1
+halt |06| JMP halt
